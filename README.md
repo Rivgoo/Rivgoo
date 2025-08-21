@@ -72,14 +72,14 @@ A collection of tools and technologies I love to work with.
 
 ---
 
-### 📊 My GitHub Stats
+<!-- ### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rivgoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" alt="Pavlo's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivgoo&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top Languages" />
 </p>
 
----
+--- -->
 
 ### 🚀 My Projects
 
