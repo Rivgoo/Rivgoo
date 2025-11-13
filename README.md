@@ -24,8 +24,7 @@
 
 ### 👨‍💻 About Me
 
-I am a motivated and focused developer with <strong>3+ years of experience in indie game development with Unity</strong> and <strong>1+ year of commercial experience in ASP.NET</strong>. My passion lies in solving complex problems and building high-quality software, guided by a deep understanding of **OOP, SOLID, and Clean Architecture**.
-
+Motivated developer with experience in <strong>C#, Unity,</strong> and <strong>ASP.NET</strong>. Gained over two years of commercial experience with <strong>ASP.NET</strong> and three years of independent game development in <strong>Unity</strong>. Demonstrates strong problem-solving skills, a deep understanding of OOP and SOLID, and a passion for games
 ---
 
 ### 🛠️ My Tech Stack
@@ -41,7 +40,8 @@ A collection of tools and technologies I love to work with.
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
         <img src="https://img.shields.io/badge/VContainer-blue?style=for-the-badge" alt="VContainer"/>
         <img src="https://img.shields.io/badge/DOTween-2D9E47?style=for-the-badge" alt="DOTween"/>
-        <img src="https://img.shields.io/badge/AdMob-F44336?style=for-the-badge&logo=admob&logoColor=white" alt="AdMob"/>
+        <img src="https://img.shields.io/badge/-Google AdMob-EA4335?style=flat&logo=googleadmob&logoColor=white" alt="AdMob"/>
+        <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
       </p>
     </td>
     <td align="center" valign="top" width="33%">
@@ -88,12 +88,20 @@ Here are some of the projects I'm proud of.
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🚁 Drone Hunter — Air Defense 3D</h3>
+      <p>A mobile, realistic 3D simulator. The player controls a machine gun and shoots down enemy drones (Shaheds) on a procedural map. Performs daily and weekly tasks. Earn achievements, earn currency, and buy weapon upgrades or better ammunition.</p>
+      <strong>Tech:</strong> <code>Unity</code>, <code>C#</code>, <code>AdMob SDK</code>, <code>Firebase SDK</code>, <code>Google Play Services</code>, <code>DoTween</code>, <code>Addressables</code>, <code>IAP</code>, <code>VContainer</code>, <code>GameCI</code>, <code>Blender</code>.
+      <br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.RivgoGames.DroneHunter" target="_blank"><strong>🔗 View on Google Play</strong></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎮 WARDRONE — FPV Drone Kamikaze</h3>
       <p>A 3D mobile military FPV drone simulation game with realistic physics and controls, featuring procedurally generated missions.</p>
       <strong>Tech:</strong> <code>Unity</code>, <code>C#</code>, <code>DoTween</code>, <code>Addressables</code>, <code>VContainer</code>, <code>AdMob SDK</code>, <code>GameCI</code>, <code>Blender</code>.
       <br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.Rivgo.WarDroneFPVDroneKamikaze" target="_blank"><strong>🔗 View on Google Play</strong></a>
     </td>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌐 Platform for Students & Employers</h3>
       <p>A web service connecting students with employers for internships and jobs, featuring automated document generation and distinct user roles.</p>
@@ -101,8 +109,6 @@ Here are some of the projects I'm proud of.
       <br/><br/>
       <a href="https://worknuwm.com.ua" target="_blank"><strong>🔗 View Live Project</strong></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🕹️ Retro Pong</h3>
       <p>A 2D mobile arcade game that puts a modern spin on the classic Pong. Break blocks, complete levels, and enjoy the retro vibes.</p>
@@ -110,6 +116,7 @@ Here are some of the projects I'm proud of.
       <br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.RivgoGames.RetroPong" target="_blank"><strong>🔗 View on Google Play</strong></a>
     </td>
+  </tr>
     <td width="50%" valign="top">
       <h3>🎬 React Production Practice</h3>
       <p>A movie poster website with ticket booking functionality and a full admin panel for content management, built as a team lead.</p>
