@@ -70,59 +70,49 @@ A collection of tools and technologies I love to work with.
   </tr>
 </table>
 
----
-
-<!-- ### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rivgoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en" alt="Pavlo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivgoo&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top Languages" />
-</p>
-
---- -->
-
-### 🚀 My Projects
-
-Here are some of the projects I'm proud of.
+### 🚀 Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🚁 Drone Hunter — Air Defense 3D</h3>
-      <p>A mobile, realistic 3D simulator. The player controls a machine gun and shoots down enemy drones (Shaheds) on a procedural map. Performs daily and weekly tasks. Earn achievements, earn currency, and buy weapon upgrades or better ammunition.</p>
-      <strong>Tech:</strong> <code>Unity</code>, <code>C#</code>, <code>AdMob SDK</code>, <code>Firebase SDK</code>, <code>Google Play Services</code>, <code>DoTween</code>, <code>Addressables</code>, <code>IAP</code>, <code>VContainer</code>, <code>GameCI</code>, <code>Blender</code>.
-      <br/><br/>
+      <p>A realistic 3D mobile simulator. Control a machine gun to shoot down enemy drones on procedural maps. Complete daily tasks, earn achievements, and upgrade weapons.</p>
+      <strong>Tech:</strong> <code>Unity</code>, <code>C#</code>, <code>Firebase</code>, <code>Addressables</code>, <code>VContainer</code>, <code>Blender</code>.<br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.RivgoGames.DroneHunter" target="_blank"><strong>🔗 View on Google Play</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 WARDRONE — FPV Drone Kamikaze</h3>
-      <p>A 3D mobile military FPV drone simulation game with realistic physics and controls, featuring procedurally generated missions.</p>
-      <strong>Tech:</strong> <code>Unity</code>, <code>C#</code>, <code>DoTween</code>, <code>Addressables</code>, <code>VContainer</code>, <code>AdMob SDK</code>, <code>GameCI</code>, <code>Blender</code>.
-      <br/><br/>
+      <h3>🎮 WARDRONE — FPV Kamikaze</h3>
+      <p>A 3D military FPV drone simulation game. Features realistic physics, precise controls, and procedurally generated combat missions.</p>
+      <strong>Tech:</strong> <code>Unity</code>, <code>C#</code>, <code>DOTween</code>, <code>Addressables</code>, <code>VContainer</code>, <code>Blender</code>.<br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.Rivgo.WarDroneFPVDroneKamikaze" target="_blank"><strong>🔗 View on Google Play</strong></a>
     </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Platform for Students & Employers</h3>
-      <p>A web service connecting students with employers for internships and jobs, featuring automated document generation and distinct user roles.</p>
-      <strong>Tech:</strong> <code>ASP.NET</code>, <code>.NET 6-9</code>, <code>Entity Framework</code>, <code>Clean Architecture</code>, <code>CQRS</code>, <code>REST API</code>, <code>MariaDB</code>, <code>Bootstrap 5</code>.
-      <br/><br/>
+      <h3>🌐 Student & Employer Platform</h3>
+      <p>A web service connecting students with employers. Automates document generation and manages distinct user roles for internships and jobs.</p>
+      <strong>Tech:</strong> <code>ASP.NET 9</code>, <code>Entity Framework</code>, <code>Clean Architecture</code>, <code>CQRS</code>, <code>MariaDB</code>.<br/><br/>
       <a href="https://worknuwm.com.ua" target="_blank"><strong>🔗 View Live Project</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3>🕹️ Retro Pong</h3>
-      <p>A 2D mobile arcade game that puts a modern spin on the classic Pong. Break blocks, complete levels, and enjoy the retro vibes.</p>
-      <strong>Tech:</strong> <code>Unity</code>, <code>C#</code>, <code>DoTween</code>, <code>VContainer</code>, <code>AdMob SDK</code>, <code>GameCI</code>, <code>Unity Sprites</code>.
-      <br/><br/>
+      <p>A 2D mobile arcade game modernizing the classic Pong. Break blocks, complete levels, and experience retro aesthetics.</p>
+      <strong>Tech:</strong> <code>Unity</code>, <code>C#</code>, <code>DOTween</code>, <code>VContainer</code>, <code>Unity Sprites</code>.<br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.RivgoGames.RetroPong" target="_blank"><strong>🔗 View on Google Play</strong></a>
     </td>
   </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>🎬 React Production Practice</h3>
-      <p>A movie poster website with ticket booking functionality and a full admin panel for content management, built as a team lead.</p>
-      <strong>Tech:</strong> <code>ASP.NET</code>, <code>.NET 9</code>, <code>React (Vite)</code>, <code>REST API</code>, <code>MariaDB</code>, <code>Material UI</code>, <code>Scrum</code>.
-      <br/><br/>
-      <a href="https://github.com/Rivgoo/MovieHub-API" target="_blank"><strong>🔗 View API Repo</strong></a> | <a href="https://github.com/Rivgoo/MovieHub-WEB" target="_blank"><strong>🔗 View Web Repo</strong></a>
+      <h3>📦 make1txt</h3>
+      <p>A secure, client-side web application. Bundles an entire project codebase into a single formatted text file. Generates structured context for LLMs like ChatGPT and Claude.</p>
+      <strong>Tech:</strong> <code>React 19</code>, <code>TypeScript</code>, <code>Vite</code>, <code>Zustand</code>, <code>Web Workers</code>.<br/><br/>
+      <a href="https://github.com/Rivgoo/make1txt" target="_blank"><strong>🔗 View Repository</strong></a> | <a href="https://make1txt.vercel.app/" target="_blank"><strong>🔗 View Live</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 MovieHub Platform</h3>
+      <p>A movie poster website with ticket booking functionality. Includes a full administrative panel for content management. Built collaboratively as a team lead.</p>
+      <strong>Tech:</strong> <code>ASP.NET 9</code>, <code>React</code>, <code>MariaDB</code>, <code>Material UI</code>, <code>Scrum</code>.<br/><br/>
+      <a href="https://github.com/Rivgoo/MovieHub-API" target="_blank"><strong>🔗 API Repo</strong></a> | <a href="https://github.com/Rivgoo/MovieHub-WEB" target="_blank"><strong>🔗 Web Repo</strong></a>
     </td>
   </tr>
 </table>
