@@ -89,25 +89,33 @@ A collection of tools and technologies I love to work with.
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🛠️ UShell</h3>
+      <p>A high-performance, reflection-free, and architecturally clean developer console for Unity</p>
+      <strong>Tech:</strong> <code>Unity</code>, <code>C#</code>.<br/><br/>
+      <a href="https://github.com/Rivgoo/UShell" target="_blank"><strong>🔗 View Repository</strong></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🌐 Student & Employer Platform</h3>
       <p>A web service connecting students with employers. Automates document generation and manages distinct user roles for internships and jobs.</p>
       <strong>Tech:</strong> <code>ASP.NET 9</code>, <code>Entity Framework</code>, <code>Clean Architecture</code>, <code>CQRS</code>, <code>MariaDB</code>.<br/><br/>
       <a href="https://worknuwm.com.ua" target="_blank"><strong>🔗 View Live Project</strong></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🕹️ Retro Pong</h3>
       <p>A 2D mobile arcade game modernizing the classic Pong. Break blocks, complete levels, and experience retro aesthetics.</p>
       <strong>Tech:</strong> <code>Unity</code>, <code>C#</code>, <code>DOTween</code>, <code>VContainer</code>, <code>Unity Sprites</code>.<br/><br/>
       <a href="https://play.google.com/store/apps/details?id=com.RivgoGames.RetroPong" target="_blank"><strong>🔗 View on Google Play</strong></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📦 make1txt</h3>
       <p>A secure, client-side web application. Bundles an entire project codebase into a single formatted text file. Generates structured context for LLMs like ChatGPT and Claude.</p>
       <strong>Tech:</strong> <code>React 19</code>, <code>TypeScript</code>, <code>Vite</code>, <code>Zustand</code>, <code>Web Workers</code>.<br/><br/>
       <a href="https://github.com/Rivgoo/make1txt" target="_blank"><strong>🔗 View Repository</strong></a> | <a href="https://make1txt.vercel.app/" target="_blank"><strong>🔗 View Live</strong></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎬 MovieHub Platform</h3>
       <p>A movie poster website with ticket booking functionality. Includes a full administrative panel for content management. Built collaboratively as a team lead.</p>
